@@ -1,0 +1,10 @@
+{
+  "name": "Игра с Цыпой",
+  "short_name": "Цыпа",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8e8",
+  "theme_color": "#ffd84d",
+  "lang": "ru",
+  "icons": []
+}
